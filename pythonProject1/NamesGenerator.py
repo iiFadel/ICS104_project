@@ -1,0 +1,13 @@
+f=open("info.txt","w")
+f.write("ID             Name            Absences        Midterm(35%)        Classwork(25%)      Final(40%)\n")
+f.write("201911111   Abdullah hassan        0                30                   23                 34   \n")
+f.write("201922222   Mohammed ali           3                28                   20                 30   \n")
+f.write("201933333   Hazem selmi            0                35                   25                 40   \n")
+f.write("201933344   Hazem selmi            0                32                   22                 33   \n")
+f.write("201944444   Rashed khaled          4                24                   20                 28   \n")
+f.write("201955555   Mousa fahad            7                13                   6                  0   \n")
+f.write("201966666   Salem abdulaziz        1                33                   22                 30  \n")
+f.write("201977777   Khaled dawood          3                26                   20                 27   \n")
+f.write("201988888   Fahad majed            2                30                   19                 38   \n")
+f.write("201999999   Nasser mousa           2                31                   17                 33   ")
+
